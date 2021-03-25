@@ -5,7 +5,7 @@ npm install
 
 npx directus init
 
-(VPS):
+(linux):
 
 npm rebuild argon2 --build-from-source
 
